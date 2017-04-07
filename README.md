@@ -1,4 +1,14 @@
 # Issue about Preattentive co-saliency detection
+
+Instruction:
+1.Unzip the file 'cosal'.
+2.Put AW.mat, im2Vector.m and vector2Im.m together with thoes files we unziped last step.
+2.Run the file 'cosal_demo'.
+
+
+
+
+
 When I learn about this thesis, I found out that the code or the project of it is published on the author's personal hompage
 
 
@@ -21,3 +31,5 @@ I checked on so many websites that I even nearly believed that those files would
 
 
 Getting in back to the point, the project is fully functional and could be run as soon as finishing downloading. 
+
+This is my first time to upload code，so I haven't figure out how to upload the whole folder right now. As a result, I have to upload each files separately. 

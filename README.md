@@ -3,7 +3,9 @@
 Instruction:
 
 1.Unzip the file 'cosal'.
+
 2.Put AW.mat, im2Vector.m and vector2Im.m together with thoes files we unziped last step.
+
 2.Run the file 'cosal_demo'.
 
 
